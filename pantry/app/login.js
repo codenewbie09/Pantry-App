@@ -46,7 +46,7 @@ export default function Login({ toggleAuth }) {
         Login
       </Button>
       <Button onClick={toggleAuth} variant="outlined">
-        Don't have an account? Sign Up
+        Don&apos;t have an account? Sign Up
       </Button>
     </Box>
   );
